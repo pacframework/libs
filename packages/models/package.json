@@ -1,0 +1,22 @@
+{
+  "name": "models",
+  "version": "1.0.0",
+  "description": "Domain models of PAC Framework building blocks: tags, actuators etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacframework/libs.git"
+  },
+  "keywords": [
+    "pacframework"
+  ],
+  "author": "Stanislav Remezov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pacframework/libs/issues"
+  },
+  "homepage": "https://github.com/pacframework/libs#readme"
+}
